@@ -4,3 +4,6 @@ This repository contains codes for:
 - Extract corresponding phenotype data from *BXDPublish.csv*
 - Run univariate LMM GEMMA on selected BXD_traits
 - Construct vector database of the significant hits
+## Requirements
+- GEMMA
+- LMDB
